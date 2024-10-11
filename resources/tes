@@ -1,0 +1,4 @@
+App\Models\User::create([
+    'name' => 'Udin',
+    'no_kartu' => 0003277777,
+])
