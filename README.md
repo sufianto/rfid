@@ -9,7 +9,7 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone https://github.com/sufianto/Aplikasi-Pembayaran-SPP.git
+    git clone https://github.com/sufianto/rfid.git
 
 Switch to the repo folder
 
